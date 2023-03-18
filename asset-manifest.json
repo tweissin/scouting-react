@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scouting-react/static/css/main.073c9b0a.css",
+    "main.js": "/scouting-react/static/js/main.3ddca36f.js",
+    "static/js/787.d79587d8.chunk.js": "/scouting-react/static/js/787.d79587d8.chunk.js",
+    "static/media/logo.svg": "/scouting-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/scouting-react/index.html",
+    "main.073c9b0a.css.map": "/scouting-react/static/css/main.073c9b0a.css.map",
+    "main.3ddca36f.js.map": "/scouting-react/static/js/main.3ddca36f.js.map",
+    "787.d79587d8.chunk.js.map": "/scouting-react/static/js/787.d79587d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3ddca36f.js"
+  ]
+}
