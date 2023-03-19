@@ -9,3 +9,7 @@ called `ghpages`. See this link for how it's done:
 
 https://github.com/gitname/react-gh-pages
 
+## Third party libraries
+
+* The Blue Alliance: https://www.npmjs.com/package/bluealliance/v/0.8.9
+* EasyQRCodeJS: https://www.npmjs.com/package/easyqrcodejs

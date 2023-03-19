@@ -1,7 +1,7 @@
 import { BrowserRouter as Router,Routes, Route, Link } from "react-router-dom"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import Contact from "./pages/Contact"
+import PreMatch from "./pages/PreMatch"
+import Auton from "./pages/Auton"
+import Teleop from "./pages/Teleop"
 
 function App() {
  return (
@@ -10,19 +10,19 @@ function App() {
            <div className="App">
             <ul className="App-header">
               <li>
-                <Link to="/">Home</Link>
+                <Link to="/">PreMatch</Link>
               </li>
               <li>
-                <Link to="/about">About Us</Link>
+                <Link to="/auton">Autonomous</Link>
               </li>
               <li>
-                <Link to="/contact">Contact Us</Link>
+                <Link to="/teleop">Teleop</Link>
               </li>
             </ul>
            <Routes>
-                 <Route exact path='/' element={< Home />}></Route>
-                 <Route exact path='/about' element={< About />}></Route>
-                 <Route exact path='/contact' element={< Contact />}></Route>
+                 <Route exact path='/' element={< PreMatch />}></Route>
+                 <Route exact path='/auton' element={< Auton />}></Route>
+                 <Route exact path='/teleop' element={< Teleop />}></Route>
           </Routes>
           </div>
        </Router>

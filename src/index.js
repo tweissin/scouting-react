@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import ReactDOM from 'react-dom';
-import './index.css';
+import './resources/css/scoutingPASS.css';
 import App from './App';
 
 // );
